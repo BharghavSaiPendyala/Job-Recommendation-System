@@ -1,0 +1,63 @@
+EDUCATION
+IIITSRICITY
+BTech in Computer Science
+CGPA: 9.25 2019-2023
+NARAYANACOLLEGE
+Secondary Education, 12th
+Percentage: 98.8% 2017-2019
+RAMADEVIPUBLICSCHOOLPercentage: 93% 2012-2017
+LINKS
+Github: kaushik-rishi
+LinkedIn: Kaushik Rishi
+Codechef: exceptional_go
+Codeforces: dark_angel007
+COURSEWORK
+DataStructuresandAlgorithms
+ObjectOrientedProgramming
+TECHNICALSKILLS
+LANGUAGES
+Proficient:
+•Javascript•C++•Python•C
+Familiar:
+Java•Dart•Assembly(x86)
+DEVELOPMENT
+Frameworks:
+•NodeJS•ExpressJS•ReactJS
+Databases:
+•MySQL•MongoDB•Redis
+Softwares:
+Hosting:
+•Azure•Heroku•Netlify
+ACHEIEVEMENTS
+• 4 star(1870 rating) oncodechef.
+• WinnerofIOTA Hackathon for
+buildingacodeforces and covid
+web scraper with notification
+system.
+EXPERIENCE
+GIRLSCRIPTPROJECTADMIN | Rocket Competitive Programming
+March 2021 - Present | Github Repo
+• Selectedastheproject admin fromacompetitivepoolofstudents.
+• Mergedover110 pull requests andreleased2majorreleases.
+• Maintainedtheprojectrepositoryandscheduledscrums followingtheagile
+developmentstrategy.
+FREELANCETEACHING | Python and Web scraping
+Feb 2021 – April 2021 | Remote
+• TaughtPython,Web Scraping to5studentshavingnoideaofprogramming.
+PROJECTS
+PROCESSMONITOR | GITHUB REPO
+• MonitorCPUusage,PerformanceandMemoryusageinawebpage.
+• Improvedthescalability byrunningsingle threaded node application
+onallthreadsusingcluster module.
+• UsedWeb Sockets forrealtimedatatransferbetweenPCandbrowser.
+• Redis adapter formappingsocket connections todifferentthreads.
+CRAVEZA | GITHUB REPO | WEBSITE LINK
+• AFood/Pizzaorderingwebappwithrealtime order status.
+• Admin panel anddeliverystatusupdatingdashboard
+• Payment gateway integration usingStripe
+• Frontend: TailwindCSS,SCSS,CSSPreprocessor,LaravelMixBundler.
+• Backend and DB:ExpressJS,MongoDB
+ROCKETFILESHARE | GITHUB REPO | WEBSITE LINK
+• FilesharingapplicationwithcleanUIandmailingfeature.
+• UsedXHR forrealtimeuploadprogresstotheserver.
+• AuthenticationusingJWT andOAuth andauserdashboard.

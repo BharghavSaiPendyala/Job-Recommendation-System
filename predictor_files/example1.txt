@@ -1,0 +1,82 @@
+NAVDEEP KONKIPUDI
+½ Hyderabad, Telangana, India
+[ navdeep152002@gmail.com Ó 9492-02-5845 ¯ linkedin.com/in/NavdeepK  github.com/NavdeepK
+EDUCATION
+Bachelor of Technology, CSE - 9.5 CGPA
+IIIT Sri City
+ 2019 – Present ½ Chittor, Andhrapradesh
+Intermediate - 98%
+Trividyaa Jr.College
+ 2017-2019 ½ Hyderabad, Telangana
+High School - 9.8 CGPA
+Brilliant Grammar High School
+ 2012-2017 ½ Hyderabad, Telangana
+PROJECTS
+ CollabTree (Deployed URL)
+A full stack web application that mimics the behaviour of
+freelancing websites. It is a complete web application with
+features like advance search, prole search, messaging,
+blogs, etc.
+ Gender-Detection
+Gender Detection Using ANN as well as CNN This model
+detects whether a person is a man or woman by opening
+your webcam.
+ Google Keep clone (Deployed URL)
+A google keep clone having features to add and delete
+notes.It is a pure ReactJS based project.
+ Docket (Deployed URL)
+A web application built using NodeJS, Express, MongoDB
+to store the list, dynamically create todo routes and perform
+various other functionalities.
+Deployed using Heroku and MongoDB Atlas.
+ Gesture Volume Control and paint
+Used OpenCV to virtually control volume of the system
+with hand gestures and also painting using your ngers.
+ Genetic Sudoku
+Using AI genetic Algorithm solved sudoku by applying appropriate
+tness functions and mutations.
+ACHIEVEMENTS
+ Achieved a 5 star rating (2000) in CodeChef.
+ Achieved specialist position (1460) in Codeforces.
+ Became member at Gradient(Coding club IIIT Sricity).
+ Achieved a global rank of 187 in Codechef November Long
+challenge 2020.
+ABOUT
+ A third year under-graduate pursuing BTech in Computer
+Science.
+ AI/ML enthusiast, MERN Stack Developer, and Highly interested
+in Competitive coding.
+WORK EXPERIENCE
+Machine Learning Intern
+DC Ikigai Private limited
+ June 2021 – August 2021
+ Contributed to the team by providing ML models of classi
+cation and regression based on the dataset provided by
+nance team.
+ Developed an NLP feedback analysis code to analyse the
+feedback and provide the customers with better result by
+updating the model based on negative reviews.
+ Developed an Algo trading as well as RNN model to predict
+the trend of NSE Stock market.
+Gradient - Problem Setter
+IIIT Sricity
+ April 2021 – Present ½ Sricity, India
+ Organising club events and conducting club sessions.
+ Problem setter for gradient, create weekly contests for practicing
+competitive programming.
+TECHNICAL SKILLS
+Programming
+C, C++, Python, Java, R, Bash
+Software
+Git, Github, NetLogo, Linux, Latex
+Databases
+MySQL, MongoDB(Mongoose)
+Frontend Frameworks
+ReactJS, HTML, CSS, JavaScript, JQuery
+Backend Frameworks
+NodeJS(express), Django
+Others
+Algorithms, Data Structures, MERN, ML/AI,
+SOFT SKILLS
+Time Management, Ability toWork under Pressure, Decision
+Making, Adaptability, Teamwork, Creativity

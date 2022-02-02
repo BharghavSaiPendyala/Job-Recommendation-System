@@ -1,0 +1,86 @@
+KHADYOTHAN CHOUDARI
+Indian Institute of Information Technology, Sri City
+[ dasarikhadyothan@gmail.com ½ Hyderabad, Telangana - India ¯ LinkedIn  Github
+EDUCATION
+B.Tech. (CSE) - 8.4 CGPA
+Indian Institute of Information Technology,
+Sri City
+ July 2019 – Currently
+Higher Secondary - 96.2%
+State Board of Telangana
+ 2019
+Secondary - 10 CGPA
+Central Board of Secondary Education
+ 2017
+PROJECTS
+Secrets (Github Link)
+• AWeb Application developed using Node,
+Express and MongoDB with Google and Facebook
+OAuth Authentication to share "Secrets
+Anonymously".
+• Html, CSS, Bootstrap and JavaScript are used
+for the frontend.
+ToDoList (Deployed URL)
+• AWeb Application built using Node, Express
+and MongoDB to keep a list of ToDoItems,
+dynamically create ToDo routes and perform
+various other functionalities.
+• Deployed using Heroku and MongoDB Atlas.
+Html, CSS, Bootstrap and JavaScript are used
+for the frontend.
+FreelancingWebsite (Deployed URL)
+• A full StackWeb Application to enable freelancing
+along with blog sharing.
+• Web Framework used - Django.
+Google Keep Clone (Github Link)
+• A clone website of Google Keep which provides
+note-taking service build completely
+using React
+BlogWebsite (Github Link)
+• AWeb application to read or post blogs created
+using Node, Express, MongoDB with
+Mongoose.
+• Html, CSS, Bootstrap and JavaScript are used
+for the frontend.
+Weather Data API (Github Link)
+• AWebsite to search the weather report of a
+particular place using the API of openweathermap.
+org
+ABOUT
+Highly organized and detail-oriented under graduate from
+the Indian Institute of Information Technology seeking an
+entry-level position as a full stack web developer.
+EXPERIENCE
+Web Developer Intern
+Pianalytix
+ July 2021 - Sep 2021 ½ Online
+• Built React.js components for the website which include messenger,
+e-commerce components.
+• Built various other components and also worked on APIs such
+as OMDb, Youtube (Google Developer Console) and GNews.
+• Worked on the integration of front-end and back-end using
+Node.js and mongoDB for database purposes.
+Machine Learning Intern
+Verzeo
+ Apr 2020 - June 2020 ½ Online
+• Implemented Exploratory Data Analysis (EDA) on the given
+data by the organisation.
+• Implemented various ML and DL algorithms on the preprocessed
+data to nd out the best accuracy that is possible.
+These include basic regression algomithms to advanced CNN
+and ANN algorithms.
+• Submitted the organization the report on the EDA performed
+and algorithm suitable for the data given.
+TECHNICAL SKILLS
+• Programming Languages - C, C++, JavaScript, Python, Java
+• HTML, CSS, Javascript, JQuery
+• Database - MySQL, MongoDB with Mongoose
+• Frontend Frameworks - React
+• Backend Frameworks - Express with Node, Django
+• Git, Matlab,WireShark, Zenmap, QGIS
+• Others - Data Structures and Algorithms
+• Video Editing - Adobe Premiere Pro CC 2020
+HOBBIES
+• Video Editing
+• ExploreWriting and Screenplay
+• Content Creation on Instagram

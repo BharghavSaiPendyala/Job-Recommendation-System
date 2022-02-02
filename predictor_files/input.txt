@@ -1,0 +1,79 @@
+BHAVESH KUMAR CHIGULLAPALLI
+Software Developer
+[ bhavesh189kumar@gmail.com Ó 8639961966 ¯ https://www.linkedin.com/in/bhavesh-kumar-20/  https://github.com/bhavesh-20
+EDUCATION
+B.Tech. (CSE) - 9.54 CGPA
+Indian Institute of Information Technology Sricity
+ August 2019 – Currently
+Intermediate - 97%
+Deeksha Junior College
+ 2017 - 2019
+Secondary - 10 CGPA
+Maharishi Vidya Mandir, Central Board of Secondary
+Education
+ 2017
+PROJECTS
+RocketShare - File sharing application
+• File sharing application with clean UI and mailing feature.
+• Used XHR for real time upload progress to the server.
+• Authentication using JWT and OAuth and a user dashboard.
+Competitive Programming Contest reminder
+• A online web service used to notify contest updates on
+discord.
+• Built using ask, used apscheduler to schedule cron job.
+Rock Paper Scissor Agent
+• Developed a rock paper scissor game playing agent based
+on Machine learning Classication and GUI created by
+Python tkinter module.
+• Used Support Vector Machine classication to create the
+model.
+Gender Detection
+• Build an articial Neural network and convolutional neural
+network to identify whether a user is a man or a woman,
+using a webcam.
+Sudoku Solver
+• Solved Sudoku using Genetic Algorithm from scratch in
+Python.
+SOFT SKILLS
+• Ability to work under pressure.
+• Time management, teamwork and adaptability.
+ACHIEVEMENTS
+• Ranked 64 globally in september long challenge codechef.
+• Enthusiastic Coder, 4 star coder (rating = 1930) in
+Codechef and specialist in Codeforces (rating = 1405).
+ABOUT
+• A Third year Undergraduate from IIIT Sricity, well trained in
+coding and various backend web frameworks.
+• A machine learning and articial intelligence enthusiast and a
+competitive coder.
+EXPERIENCE
+Backend Development Intern
+Radicali (Experience Letter)
+ June 2021 – August 2021
+• Worked with python on backend development and built features
+for the app in ask and fastapi frameworks.
+• Working with the team to solve customer’s requests in realtime..
+• Build the backend for new features for the app.
+• Tech scoping and Tech documentation along with the team
+on new features.
+• Fixing bugs faced by customers and the development team.
+Gradient - Club Head
+IIIT Sri City
+ Apr 2021 – Present ½ Sri City, India
+• Managing Gradient club as a core member.
+• Organising club events and conducting club sessions.
+• Problem setter for gradient, create weekly contests for practicing
+competitive programming.
+TECHNICAL SKILLS
+Programming
+C, C++, Java, Python, R
+Software
+Git, Github, Bash, Latex, Netlogo
+Databases
+MySQL, PostgreSQL, MongoDB
+Frontend Frameworks
+HTML, CSS, JavaScript, ReactJS
+Backend Frameworks
+Django, Flask, Fastapi, Nodejs(express)
+Others
+Algorithms, Data Structures, ML/AI
