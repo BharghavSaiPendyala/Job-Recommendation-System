@@ -1,4 +1,4 @@
-# Job-Recommender
+# Job-Recommendation-System
 
 - Clone the repo
 `git clone <SSH>`
